@@ -1,6 +1,6 @@
 type ComplexNumber = {
     r : number,
-    i : number;
+    i : number
 };
 
 let c1 : ComplexNumber = {

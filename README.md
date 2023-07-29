@@ -21,3 +21,5 @@ It is not always required to specify type. If, we are initializing a variable wh
 we can also specify object as type of param or return type.
 
 type alias -> structure of types for a particular requirement.
+
+readonly -> used in type against an attr.
