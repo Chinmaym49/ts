@@ -27,3 +27,7 @@ readonly -> used in type against an attr.
 optional -> name? : type
 
 type t3 = t1 & t2 & {} (Can't spread t1 and t2 in t3 as they are not objects)
+
+
+
+literals can have fixed value (liske const or enum)
