@@ -33,3 +33,5 @@ unions allow to have variables / params of many types but limited. (use if else 
 literals can have fixed value (liske const or enum)
 
 let obj : User; typeof obj returns "object", not "User".
+
+array with mixed datatype can be obtained by a : (string | number)[];
