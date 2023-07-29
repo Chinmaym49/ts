@@ -11,3 +11,5 @@ let name : type = ....
 function foo(param : type) : type {}
 
 let foo = (param : type) : type => {}
+
+It is not always required to specify type. If, we are initializing a variable while declaring it, typescript will intelligently deduce/infer the type. This is called type inference.
