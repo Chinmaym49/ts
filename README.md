@@ -16,3 +16,4 @@ It is not always required to specify type. If, we are initializing a variable wh
 
 "any" is not a type. It just tells typescript to not check the type for such variables.
 
+"never" is used explicitly for exceptions.
