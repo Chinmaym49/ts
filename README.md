@@ -25,3 +25,5 @@ type alias -> structure of types for a particular requirement.
 readonly -> used in type against an attr.
 
 optional -> name? : type
+
+type t3 = t1 & t2 & {} (Can't spread t1 and t2 in t3 as they are not objects)
