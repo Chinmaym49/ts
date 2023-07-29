@@ -19,3 +19,5 @@ console.log(foo("bkjbcekur"));
 fooo("ckb", "kcwbrc");
 console.log(foooo(3));
 console.log(handleError("error"));
+
+export {};
