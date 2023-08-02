@@ -35,3 +35,6 @@ literals can have fixed value (like const or enum)
 let obj : User; typeof obj returns "object", not "User".
 
 array with mixed datatype can be obtained by a : (string | number)[];
+
+tuples allows us to maintain order of types in a fixed length array.
+
