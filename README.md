@@ -26,11 +26,11 @@ readonly -> used in type against an attr.
 
 optional -> name? : type
 
-type t3 = t1 & t2 & {} (Can't spread t1 and t2 in t3 as they are not objects)
+type t3 = t1 & t2 & { x : number} (Can't spread t1 and t2 in t3 as they are not objects)
 
-unions allow to have variables / params of many types but limited. (use if else in funtion to distinguish)
+unions allow to have variables / params of many types but limited. (use if else in function to distinguish)
 
-literals can have fixed value (liske const or enum)
+literals can have fixed value (like const or enum)
 
 let obj : User; typeof obj returns "object", not "User".
 

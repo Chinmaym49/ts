@@ -31,3 +31,5 @@ let u : User = {name : "cefe", pwd : 34965};
 login(u);
 let a : Admin = {name : "fuf", pwd : "ckh73fb"};
 login(a);
+
+export {};

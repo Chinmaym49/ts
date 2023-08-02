@@ -13,3 +13,5 @@ let foo = (u : User) : void => {
 
 foo({name : "cence", age : 46});
 foo({name : "kuerhckn", age : 34, isOk : true});
+
+export {};
