@@ -38,3 +38,5 @@ array with mixed datatype can be obtained by a : (string | number)[];
 
 tuples allows us to maintain order of types in a fixed length array.
 
+only diff between type and interface : (way of extending), (reopening)
+
