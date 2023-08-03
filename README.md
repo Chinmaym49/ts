@@ -52,3 +52,10 @@ npm init -y -> creates package.json without asking questions.
 
 every project has src and dist. dist contains the transpiled ts and this is what goes to PROD.
 
+public private keywords need to be used in ts classes
+
+getters and setters in ts classes use keywords get and set.
+
+set cannot have return type, not even void.
+
+getters and setters are used as variables and not funtions.
