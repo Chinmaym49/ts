@@ -43,3 +43,10 @@ only diff between type and interface : (way of extending), (reopening)
 we can have 2d arrays in ts. let arr : number[][] = [[], []];
 
 enums exist in ts.
+
+tsc --init -> creates tsconfig.json where we mention transpiler settings.
+
+npm init -y -> creates package.json without asking questions.
+
+every project has src and dist. dist contains the transpiled ts and this is what goes to PROD.
+
