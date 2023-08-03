@@ -41,3 +41,5 @@ tuples allows us to maintain order of types in a fixed length array.
 only diff between type and interface : (way of extending), (reopening)
 
 we can have 2d arrays in ts. let arr : number[][] = [[], []];
+
+enums exist in ts.
