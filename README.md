@@ -62,3 +62,4 @@ getters and setters are used as variables and not funtions.
 
 classes can implement interfaces. Interfaces cannot have function definition.
 
+abstract class can have function definition. We can ovverride abstract class methods in child.
