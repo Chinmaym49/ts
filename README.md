@@ -59,3 +59,6 @@ getters and setters in ts classes use keywords get and set.
 set cannot have return type, not even void.
 
 getters and setters are used as variables and not funtions.
+
+classes can implement interfaces. Interfaces cannot have function definition.
+
