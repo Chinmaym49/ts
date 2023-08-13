@@ -65,3 +65,5 @@ classes can implement interfaces. Interfaces cannot have function definition.
 abstract class can have function definition. We can ovverride abstract class methods in child.
 
 use generics for reusability.
+
+type narrowing : typeof, in, instance of, type predicate
